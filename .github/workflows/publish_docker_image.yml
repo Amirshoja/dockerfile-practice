@@ -1,3 +1,5 @@
+# Author: Amir Abbas Shojakhani
+
 name: Publish Dockerfile on DockerHub
 on: 
   push: 
